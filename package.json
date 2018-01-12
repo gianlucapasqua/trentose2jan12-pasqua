@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/gianlucapasqua/trentose2jan12-pasqua/issues"
   },
-  "homepage": "https://github.com/gianlucapasqua/trentose2jan12-pasqua#readme"
+  "homepage": "https://github.com/gianlucapasqua/trentose2jan12-pasqua#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
 }
